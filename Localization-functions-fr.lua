@@ -83,7 +83,7 @@ NECROSIS_SPELL_TABLE = {
 	[14] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Corruption",						Length = 17,	Type = 5},
 	[15] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
-		Name = "Domination corrompue",					Length = 900,	Type = 3},
+		Name = "Domination corrompue",					Length = 300,	Type = 3},
 	[16] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Mal\195\169diction funeste",				Length = 60,	Type = 3},
 	[17] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,

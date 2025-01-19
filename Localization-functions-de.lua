@@ -83,7 +83,7 @@ NECROSIS_SPELL_TABLE = {
 	[14] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Verderbnis",				Length = 17,	Type = 5},
 	[15] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
-		Name = "Teufelsbeherrschung",			Length = 900,	Type = 3},
+		Name = "Teufelsbeherrschung",			Length = 300,	Type = 3},
 	[16] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
 		Name = "Fluch der Verdammnis",			Length = 60,	Type = 3},
 	[17] = {ID = nil, Rank = nil, CastTime = nil, Mana = nil,
