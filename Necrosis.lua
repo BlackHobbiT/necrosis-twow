@@ -1729,7 +1729,7 @@ function Necrosis_BagExplore()
 				-- On prend le nombre d'item en stack sur le slot
 				local _, ItemCount = GetContainerItemInfo(container, slot);
 				-- Si c'est un fragment ou une pierre infernale, alors on rajoute la qté au nombre de pierres
-				if itemName == NECROSIS_ITEM.Soulshard then Soulshards = Soulshards + 1; end
+				if itemName == NECROSIS_ITEM.Soulshard then Soulshards = Soulshards + ItemCount; end
 				if itemName == NECROSIS_ITEM.InfernalStone then InfernalStone = InfernalStone + ItemCount; end
 				if itemName == NECROSIS_ITEM.DemoniacStone then DemoniacStone = DemoniacStone + ItemCount; end
 				-- Si c'est une pierre d'âme, on note son existence et son emplacement
